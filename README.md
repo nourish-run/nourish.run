@@ -1,4 +1,4 @@
 # nourish.run
-The open-source MyFitnessPal successor.
+The social nutrition tracking app.
 
-Current nutrition apps aren't social enough!
+Because nutrition apps aren't social enough!
